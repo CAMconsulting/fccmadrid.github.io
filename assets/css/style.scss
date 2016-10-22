@@ -1,0 +1,29 @@
+---
+---
+
+
+.avatar{
+  // border-radius: 50%;
+  height: 150px;
+}
+ul li{
+  list-style-type: none;
+}
+a:hover{
+      text-decoration: none;
+}
+li{
+  list-style-type: none;
+}
+.well{
+  // margin: 2px;
+  // width: 30%;
+  h1, a, p{
+    color: gray;
+  }
+}
+.profile-item{
+  span{
+    padding-left: 1.5em;
+  }
+}

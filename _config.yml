@@ -2,7 +2,7 @@
 title: FreeCodeCamp Madrid Website
 email: freecodecampmadrid@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://fccmadrid.github.com" # the base hostname & protocol for your site
+url: "http://fccmadrid.github.com/" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
@@ -12,3 +12,9 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
+
+page_gen:
+  - data: 'members'
+    template: 'profile'
+    name: 'name'
+    dir: 'people'

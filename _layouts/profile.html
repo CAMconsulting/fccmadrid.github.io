@@ -1,0 +1,103 @@
+---
+layout: default
+---
+
+{% assign member  = site.data.members[page.id] %}
+<div class="row">
+  <div class="col-sm-12 text-center">
+      <img class="avatar img-circle"src="{{member.avatar}}" alt="" />
+      <h1>{{member.name}}</h1>
+      <div class="col-md-8 text-center col-md-offset-2"><p>{{member.long-bio}}</p></div>
+      <div class="col-md-8 text-center col-md-offset-2 profile-item"><span class="octicon octicon-location"></span> {{member.location}}
+      {%if member.website %}<span class="octicon octicon-globe"></span> <a href="{{member.website}}">{{member.website}}</a>{% endif %}
+      {%if member.email %}<span class="octicon octicon-mail"></span> <a href="mailto:{{member.email}}"> contáctame</a>{% endif %}
+</div>
+
+
+  </div>
+
+</div>
+{% if page.blog %}
+
+
+<div class="row">
+
+  <center><h1>Portfolio de {{member.name}}</h1></center>
+
+  {% for post in site.posts %}
+  {% if post.name == {{member.display_name}} %}
+
+
+  <div class="col-md-6">
+    <a href={{post.url}}>
+      <center><h4>{{ post.title }}</h4></center>
+      <img class="img-responsive" src="{{ post.image}}" alt="imagen" /><br>
+    </a>
+  </div>
+{% endif %}
+{% endfor %}
+
+</div>
+{% endif %}
+
+
+
+<!-- {% assign member  = site.data.members[page.author] %}
+<div class="row">
+  <div class="col-s-12">
+    <img class="avatar" src="{{ author.avatar }}" alt="" /><br>
+    <h2>{{author.name}}</h2>
+    <p>
+      {{author.bio}}
+    </p>
+  </div>
+
+</div>
+<div class="row">
+  <div class="col-s-12">
+
+
+  </div>
+
+</div> -->
+<!-- {% assign author  = site.data.members[member.author] %}
+<div class="container">
+  <div class="profile">
+    <div class="sidebar-author white-text valign-wrapper col s12 m4">
+    <div class="valign center">
+      <ul class="author-description center ">
+        <li class="collection-item avatar"><img src="{{ author.avatar }}" class="avatar circle responsive-img" alt="{{ author.name }} bio foto" /><br>{% if author.pro %}<span><img src="images/PRO.png" alt="" /></span>{% endif %}</li>
+        <li class="collection-item">
+          <h4>{{author.name}}</h4></li>
+        <li class="collection-item">
+          <p><span class="octicon octicon-home"></span> De {{author.hometown}}</p>
+        </li>
+        <li class="collection-item">
+          <p><span class="octicon octicon-location"></span> Ahora en {{author.location}}</p>
+        </li>
+        <li class="collection-item"><span class="mega-octicon octicon-{{author.icon}}"></span>
+
+          <p>{{author.bio}}</p>
+        </li>
+        <li>{% if author.website %}
+          <a class="waves-effect transparent btn white-text" href="{{ author.website }}"> mi sitio {{ author.wbname }}</a>{% endif %}
+
+      </li>
+      </ul>
+
+      <menu class="center">
+        {% if author.linkedin %}<li><a href="{{ author.linkedin }}" target="_blank">{% include linkedin.html %}</a></li>{% endif %}
+        {% if author.twitter  %}<li><a href="{{ author.twitter }}" target="_blank">{% include twitter.html %}</a></li>{% endif %}
+        {% if author.github  %}<li><a href="{{ author.github }}" target="_blank">{% include github-white.html %}</a></li>{% endif %}
+        {% if author.dribbble  %}<li><a href=" {{ author.dribbble }} " target="_blank">{% include dribbble.html %}</a></li>{% endif %}
+      </menu>
+    </div>
+  </div>
+  <div class="profile-img col s12"><img class="responsive-img" src="{{ author.full-pic }}" alt=""  />
+
+  </div>
+
+</div>
+
+
+</div> -->

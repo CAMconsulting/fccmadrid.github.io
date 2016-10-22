@@ -1,5 +1,24 @@
 ---
 layout: default
 ---
+<center><h1>Comunidad</h1></center>
 
-<div>Hello World</div>
+  <div class="row">
+    <!-- {% assign author  = site.data.members[page.author] %} -->
+    {% for member in site.data.members %}
+    <div class="col-sm-12 col-md-4 well">
+      <center>
+
+            <a href="{{site.baseurl}}/{{member.page}}">
+              <span><img class="img-circle avatar" src="{{ member.avatar }}" alt="{{ member.name }} bio foto" /></span><br />
+              </span><br />
+              <h1>{{member.name}}</h1><br>
+              <span class="octicon octicon-{{member.icon}}"></span>
+              <span class="octicon octicon-{{member-icon}}">{{member.bio}} </span>
+
+
+
+      </center>
+    </div>
+   {% endfor %}
+  </div>

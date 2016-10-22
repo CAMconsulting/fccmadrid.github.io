@@ -1,1 +1,69 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.5">Jekyll</generator><link href="http://fccmadrid.github.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://fccmadrid.github.com/" rel="alternate" type="text/html" /><updated>2016-10-21T00:00:44+02:00</updated><id>http://fccmadrid.github.com/</id><title>FreeCodeCamp Madrid Website</title><entry><title>Hello World</title><link href="http://fccmadrid.github.com/2016/10/20/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Hello World" /><published>2016-10-20T00:00:00+02:00</published><updated>2016-10-20T00:00:00+02:00</updated><id>http://fccmadrid.github.com/2016/10/20/welcome-to-jekyll</id><content type="html" xml:base="http://fccmadrid.github.com/2016/10/20/welcome-to-jekyll.html">&lt;p&gt;This is my Hello World Post&lt;/p&gt;</content><summary>This is my Hello World Post</summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="http://fccmadrid.github.com//feed.xml" rel="self" type="application/atom+xml" /><link href="http://fccmadrid.github.com//" rel="alternate" type="text/html" /><updated>2016-10-22T16:59:45+02:00</updated><id>http://fccmadrid.github.com//</id><title>FreeCodeCamp Madrid Website</title><entry><title>Typescript</title><link href="http://fccmadrid.github.com//proyectos/2016/10/22/proyecto-3.html" rel="alternate" type="text/html" title="Typescript" /><published>2016-10-22T00:00:00+02:00</published><updated>2016-10-22T00:00:00+02:00</updated><id>http://fccmadrid.github.com//proyectos/2016/10/22/proyecto-3</id><content type="html" xml:base="http://fccmadrid.github.com//proyectos/2016/10/22/proyecto-3.html">&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-md-7&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/images/typescript.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;col-md-5&quot;&gt;
+    &lt;h1&gt;Typescript&lt;/h1&gt;
+    &lt;p&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  &lt;/p&gt;&lt;/div&gt;
+&lt;/div&gt;</content><category term="proyectos" /><summary>Typescript
+    
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://fccmadrid.github.com/assets/images/typescript.png" /></entry><entry><title>React</title><link href="http://fccmadrid.github.com//proyectos/2016/10/22/proyecto-2.html" rel="alternate" type="text/html" title="React" /><published>2016-10-22T00:00:00+02:00</published><updated>2016-10-22T00:00:00+02:00</updated><id>http://fccmadrid.github.com//proyectos/2016/10/22/proyecto-2</id><content type="html" xml:base="http://fccmadrid.github.com//proyectos/2016/10/22/proyecto-2.html">&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-md-7&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/images/react.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;col-md-5&quot;&gt;
+    &lt;h1&gt;React&lt;/h1&gt;
+    &lt;p&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  &lt;/p&gt;&lt;/div&gt;
+&lt;/div&gt;</content><category term="proyectos" /><summary>React
+    
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://fccmadrid.github.com/assets/images/react.png" /></entry><entry><title>Angularjs</title><link href="http://fccmadrid.github.com//proyectos/2016/10/22/proyecto-1.html" rel="alternate" type="text/html" title="Angularjs" /><published>2016-10-22T00:00:00+02:00</published><updated>2016-10-22T00:00:00+02:00</updated><id>http://fccmadrid.github.com//proyectos/2016/10/22/proyecto-1</id><content type="html" xml:base="http://fccmadrid.github.com//proyectos/2016/10/22/proyecto-1.html">&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-md-7&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/images/angularjs.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;col-md-5&quot;&gt;
+    &lt;h1&gt;Angularjs&lt;/h1&gt;
+    &lt;p&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  &lt;/p&gt;&lt;/div&gt;
+&lt;/div&gt;</content><category term="proyectos" /><summary>Angularjs
+    
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://fccmadrid.github.com/assets/images/angularjs.png" /></entry><entry><title>evento 2</title><link href="http://fccmadrid.github.com//eventos/2016/10/22/evento-2.html" rel="alternate" type="text/html" title="evento 2" /><published>2016-10-22T00:00:00+02:00</published><updated>2016-10-22T00:00:00+02:00</updated><id>http://fccmadrid.github.com//eventos/2016/10/22/evento-2</id><content type="html" xml:base="http://fccmadrid.github.com//eventos/2016/10/22/evento-2.html"></content><category term="eventos" /><summary>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</summary></entry><entry><title>HTML 5.1 y HTML5.2 - Estado de la especificación</title><link href="http://fccmadrid.github.com//eventos/2016/10/22/evento-1.html" rel="alternate" type="text/html" title="HTML 5.1 y HTML5.2 - Estado de la especificación" /><published>2016-10-22T00:00:00+02:00</published><updated>2016-10-22T00:00:00+02:00</updated><id>http://fccmadrid.github.com//eventos/2016/10/22/evento-1</id><content type="html" xml:base="http://fccmadrid.github.com//eventos/2016/10/22/evento-1.html"></content><category term="eventos" /><summary>HTML 5 se ha convertido desde hace tiempo en el estándar de HTML actual. Pero en el W3C han seguido trabajando en las versiones 5.1 y 5.2 ampliando la especificación.</summary></entry><entry><title>wecodesign</title><link href="http://fccmadrid.github.com//2016/10/21/wecodedesign.html" rel="alternate" type="text/html" title="wecodesign" /><published>2016-10-21T00:00:00+02:00</published><updated>2016-10-21T00:00:00+02:00</updated><id>http://fccmadrid.github.com//2016/10/21/wecodedesign</id><content type="html" xml:base="http://fccmadrid.github.com//2016/10/21/wecodedesign.html">&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-md-7&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/images/wecodesign.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;col-md-5&quot;&gt;
+    &lt;h1&gt;wecodesign&lt;/h1&gt;
+    &lt;p&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  &lt;/p&gt;
+    &lt;strong&gt;Autor: &lt;/strong&gt;Ignacio Villanueva&lt;br&gt;
+    &lt;strong&gt;Sitio Web:&lt;/strong&gt; &lt;a href=&quot;http://wecodesignpodcast.com&quot;&gt; wecodesignpodcast.com&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</content><author><name>Ignacio Villanueva</name></author><summary>wecodesign
+    
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
+    Autor: Ignacio Villanueva
+    Sitio Web:  wecodesignpodcast.com</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://fccmadrid.github.com/assets/images/wecodesign.png" /></entry><entry><title>Interletrados</title><link href="http://fccmadrid.github.com//2016/10/21/interletrados.html" rel="alternate" type="text/html" title="Interletrados" /><published>2016-10-21T00:00:00+02:00</published><updated>2016-10-21T00:00:00+02:00</updated><id>http://fccmadrid.github.com//2016/10/21/interletrados</id><content type="html" xml:base="http://fccmadrid.github.com//2016/10/21/interletrados.html">&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-md-7&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/assets/images/interletrados.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;col-md-5&quot;&gt;
+    &lt;h1&gt;Interletrados&lt;/h1&gt;
+    &lt;p&gt;
+    Alojado en Amazon Web Services, desarrollado con &lt;a href=&quot;http://wordpress.org&quot;&gt;WordPress&lt;/a&gt; &lt;br&gt;
+    &lt;strong&gt;Autor: &lt;/strong&gt;Carlos Marchena&lt;br&gt;
+    &lt;strong&gt;Sitio Web:&lt;/strong&gt; &lt;a href=&quot;http://interletrados.com/&quot;&gt; interletrados.com/&lt;/a&gt;
+  &lt;/p&gt;&lt;/div&gt;
+&lt;/div&gt;</content><author><name>Carlos Marchena</name></author><summary>Interletrados
+    
+    Alojado en Amazon Web Services, desarrollado con WordPress 
+    Autor: Carlos Marchena
+    Sitio Web:  interletrados.com/</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://fccmadrid.github.com/assets/images/interletrados.png" /></entry><entry><title>Estos Panas</title><link href="http://fccmadrid.github.com//2016/10/21/estospanas.html" rel="alternate" type="text/html" title="Estos Panas" /><published>2016-10-21T00:00:00+02:00</published><updated>2016-10-21T00:00:00+02:00</updated><id>http://fccmadrid.github.com//2016/10/21/estospanas</id><content type="html" xml:base="http://fccmadrid.github.com//2016/10/21/estospanas.html">&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-md-7&quot;&gt;
+    
+    &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/images/estospanas.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;col-md-5&quot;&gt;
+    &lt;h1&gt;Estos Panas&lt;/h1&gt;
+    &lt;p&gt;
+    Alojado en GitHub Pages, desarrollado con &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; y &lt;a href=&quot;http://materializecss.com/&quot;&gt;materializecss&lt;/a&gt;&lt;br&gt;
+    &lt;strong&gt;Autor: &lt;/strong&gt;Carlos Marchena&lt;br&gt;
+    &lt;strong&gt;Sitio Web:&lt;/strong&gt; &lt;a href=&quot;http://www.estospanas.com/&quot;&gt; estospanas.com&lt;/a&gt;
+  &lt;/p&gt;&lt;/div&gt;
+&lt;/div&gt;</content><author><name>Carlos Marchena</name></author><summary>Estos Panas
+    
+    Alojado en GitHub Pages, desarrollado con Jekyll y materializecss
+    Autor: Carlos Marchena
+    Sitio Web:  estospanas.com</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://fccmadrid.github.com/assets/images/estospanas.png" /></entry><entry><title>Hello World</title><link href="http://fccmadrid.github.com//2016/10/20/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Hello World" /><published>2016-10-20T00:00:00+02:00</published><updated>2016-10-20T00:00:00+02:00</updated><id>http://fccmadrid.github.com//2016/10/20/welcome-to-jekyll</id><content type="html" xml:base="http://fccmadrid.github.com//2016/10/20/welcome-to-jekyll.html">&lt;p&gt;This is my Hello World Post&lt;/p&gt;</content><author><name>luis</name></author><summary>This is my Hello World Post</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://fccmadrid.github.com/assets/images/cityblu.jpeg" /></entry></feed>

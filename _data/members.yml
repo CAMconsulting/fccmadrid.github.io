@@ -1,0 +1,106 @@
+- name: Ignacio Villanueva
+  display_name: ignacio
+  location: Madrid 🇪🇸
+  avatar: assets/images/avatarIV.jpg
+  bio: Desarrollador/Diseño
+  long-bio: "Front-end Developer, focusing on CSS and Sass, architecture, front-end performance and RWD."
+  website: http://wecodesignpodcast.com
+  wbname: estospanas
+  linkedin: https://es.linkedin.com/in/cmarchena
+  twitter: http://twitter.com/degarciarangel
+  full-pic: images/perfilJM.jpg
+  icon: code
+  pro: si
+  page: ignacio-villanueva
+
+- name: Alex Serrano
+  display_name: alex
+  avatar: assets/images/avatarAB.jpg
+  bio: Desarrollador
+  location: Madrid 🇪🇸
+  wbname: Home
+  twitter: http://twitter.com/luisalbertocs
+  github: luisalbertocs
+  full-pic: images/perfilLMC.jpg
+  icon: code
+  pro: si
+  page: alex-serrano
+
+- name: María Rogles
+  display_name: maria
+  location: Madrid 🇪🇸
+  avatar: assets/images/avatarMR.jpg
+  bio: Diseño Gráfico y Multimedia
+  long-bio: Diseño Gráfico y Multimedia
+  wbname: Cayena Beachwear
+  full-pic: images/cayena_imagen_008_1448.jpeg
+  icon: pencil
+  pro: si
+  page: maria-rogles
+
+- name: Dani Díaz
+  display_name: dani
+  location: Madrid 🇪🇸
+  bio: Desarrollador
+  long-bio: Ingeniero
+  avatar: assets/images/avatarDD.jpg
+  full-pic: images/perfilCY.jpg
+  icon: code
+  twitter: http://twitter.com/
+  github: http://twitter.com/
+  page: dani-diaz
+
+- name: Miguel Santamaría
+  display_name: miguel
+  hometown:  Caracas 🇻🇪
+  location: Madrid 🇪🇸
+  bio: Desarrollador
+  avatar: assets/images/avatarMS.jpg
+  full-pic: images/perfilCY.jpg
+  icon: code
+  twitter: http://twitter.com/
+  github: http://twitter.com/
+  page: miguel-santamaria
+
+- name: Pedro Abel Díaz
+  display_name: pedro
+  hometown:  Caracas 🇻🇪
+  location: Madrid 🇪🇸
+  bio: Desarrollador
+  avatar: assets/images/avatarPA.jpg
+  full-pic: images/perfilCY.jpg
+  icon: code
+  twitter: http://twitter.com/
+  github: http://twitter.com/
+  page: pedro-abel
+
+- name: Pablo Bordons Estrada
+  display_name: pablo
+  hometown:  Caracas 🇻🇪
+  location: Madrid 🇪🇸
+  bio: Desarrollador
+  avatar: assets/images/avatarPB.jpg
+  full-pic: images/perfilCY.jpg
+  icon: code
+  twitter: http://twitter.com/
+  github: http://twitter.com/
+  page: pablo-bordons
+
+- name: Carlos Marchena
+  display_name: carlos
+  location: Madrid 🇪🇸
+  avatar: assets/images/avatarCA.png
+  email: carlos@camconsulting.online
+  bio: Front-end, Jekyll, Foundation
+  long-bio: "Everybody has a right to be online, we are democratizing Digital Transformation for all <br> #WebDesign #UX #UI #DesignThinking #SEO #SEM #GoogleAnalytics"
+  web: http://estospanas.com
+  linkedin: https://es.linkedin.com/in/cmarchena
+  twitter: http://twitter.com/cmarchena
+  github: http://github.com/cmarchena
+  full-pic: images/perfilCA.jpg
+  website: http://camconsulting.github.io
+  wbname: cmarchena.com
+  dribbble: http://dribbble.com/cmarchena
+  icon: code
+  pro: si
+  page: carlos-marchena

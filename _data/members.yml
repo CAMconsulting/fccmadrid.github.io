@@ -1,21 +1,21 @@
-- name: Ignacio Villanueva
-  display_name: ignacio
+- name: Carlos III
+  display_name: carlos3
   location: Madrid 🇪🇸
-  avatar: assets/images/avatarIV.jpg
+  avatar: http://img.mundifrases.com/images/thumb_person-rey-carlos-iii-de-espana.140x140_q95_box-76,1,222,148.jpg
   bio: Desarrollador/Diseño
-  long-bio: "Front-end Developer, focusing on CSS and Sass, architecture, front-end performance and RWD."
-  website: http://wecodesignpodcast.com
+  long-bio: "Lorem Ipsum"
+  website: http://myportfolio.com
   wbname: estospanas
   linkedin: https://es.linkedin.com/in/cmarchena
   twitter: http://twitter.com/degarciarangel
   full-pic: images/perfilJM.jpg
   icon: code
   pro: si
-  page: ignacio-villanueva
+  page: carlos3
 
-- name: Alex Serrano
-  display_name: alex
-  avatar: assets/images/avatarAB.jpg
+- name: Felipe III
+  display_name: felipe3
+  avatar: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Diego_Vel%C3%A1zquez_071.jpg/200px-Diego_Vel%C3%A1zquez_071.jpg
   bio: Desarrollador
   location: Madrid 🇪🇸
   wbname: Home
@@ -24,67 +24,67 @@
   full-pic: images/perfilLMC.jpg
   icon: code
   pro: si
-  page: alex-serrano
+  page: felipe3
 
-- name: María Rogles
-  display_name: maria
+- name: Margarita de Austria
+  display_name: margarita
   location: Madrid 🇪🇸
-  avatar: assets/images/avatarMR.jpg
+  avatar: http://4.bp.blogspot.com/-RknUVz27dFs/T-4G6tp9HpI/AAAAAAAACY8/rGLUB2dC7aA/s1600/anna-austria.jpg
   bio: Diseño Gráfico y Multimedia
   long-bio: Diseño Gráfico y Multimedia
   wbname: Cayena Beachwear
   full-pic: images/cayena_imagen_008_1448.jpeg
   icon: pencil
   pro: si
-  page: maria-rogles
+  page: margarita
 
-- name: Dani Díaz
-  display_name: dani
+- name: Felipe II
+  display_name: felipe
   location: Madrid 🇪🇸
   bio: Desarrollador
   long-bio: Ingeniero
-  avatar: assets/images/avatarDD.jpg
+  avatar: http://1.bp.blogspot.com/_AbeQ-V24DWc/TGfiE3zg0PI/AAAAAAAAC1w/MFkUZY6CzuM/s400/487px-Alonso_S%C3%A1nchez_Coello_002b.jpg
   full-pic: images/perfilCY.jpg
   icon: code
   twitter: http://twitter.com/
   github: http://twitter.com/
-  page: dani-diaz
+  page: felipe2
 
-- name: Miguel Santamaría
-  display_name: miguel
+- name: Ana de Austria
+  display_name: ana
   hometown:  Caracas 🇻🇪
   location: Madrid 🇪🇸
   bio: Desarrollador
-  avatar: assets/images/avatarMS.jpg
+  avatar: http://www.museosenfemenino.es/sites/default/files/styles/zoom-completa/public/la_reina_de_austria.jpg?itok=UXykRrWV
   full-pic: images/perfilCY.jpg
   icon: code
   twitter: http://twitter.com/
   github: http://twitter.com/
-  page: miguel-santamaria
+  page: ana
 
-- name: Pedro Abel Díaz
+- name: Maximiliano Tercero
   display_name: pedro
   hometown:  Caracas 🇻🇪
   location: Madrid 🇪🇸
   bio: Desarrollador
-  avatar: assets/images/avatarPA.jpg
+  avatar: http://www.madridvillaycorte.es/images/ana-austria-maximiliano.jpg
   full-pic: images/perfilCY.jpg
   icon: code
   twitter: http://twitter.com/
   github: http://twitter.com/
-  page: pedro-abel
+  page: max3
 
-- name: Pablo Bordons Estrada
-  display_name: pablo
+- name: Micaela Catalina
+  display_name: mica
   hometown:  Caracas 🇻🇪
   location: Madrid 🇪🇸
   bio: Desarrollador
-  avatar: assets/images/avatarPB.jpg
+  avatar: https://exprimehistorias.files.wordpress.com/2016/05/infanta-catalina-micaela-hija-de-isabel-de-valois-y-felipe-ii-1.jpg
   full-pic: images/perfilCY.jpg
   icon: code
   twitter: http://twitter.com/
   github: http://twitter.com/
-  page: pablo-bordons
+  page: mica
 
 - name: Carlos Marchena
   display_name: carlos
